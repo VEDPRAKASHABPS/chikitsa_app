@@ -1,17 +1,45 @@
-# chikitsa_app
+# Chikitsa App 🏥
 
-A new Flutter project.
+**Chikitsa App** is a healthcare management app built with **Flutter**. It provides features like patient registration, medical reports upload, and location-based address autofill to streamline clinic operations.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 👤 Patient Registration with personal & body info
+- 📍 Geolocation-based address autofill
+- 📑 Upload medical reports via camera or gallery
+- 🗂️ Organized patient data entry with sections
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# chikitsa_app
+## 📸 Screenshots
+
+<img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/>
+
+---
+
+## 🛠️ Tech Stack
+
+- 💙 Flutter
+- 🔥 Firebase (if used)
+- 📍 Geolocator / Location plugin
+- 📷 Image Picker for gallery/camera uploads
+
+---
+
+## 🧑‍💻 Developer
+
+**Ved Prakash**  
+📧 [vedprakashabps@gmail.com](mailto:vedprakashabps@gmail.com)  
+📱 +91 9472795244  
+
+---
+
+## 📦 How to Run
+
+```bash
+git clone https://github.com/VEDPRAKASHABPS/chikitsa_app.git
+cd chikitsa_app
+flutter pub get
+flutter run
