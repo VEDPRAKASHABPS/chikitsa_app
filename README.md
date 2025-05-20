@@ -15,8 +15,24 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/>
-<img src="[https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png](https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/6926e6ceddf7691434cbe32d340e8775164cde98/WhatsApp%20Image%202025-05-01%20at%2016.52.20%20(1).jpeg)" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/7a9d48241a0ec43443915593b8b147e29f71f259/Upload%20gallery%20(1).png" alt="Chikitsa App Screenshot" width="400"/>
+<table>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-01%20at%2016.52.20%20(1).jpeg" width="250"/></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-01%20at%2016.52.32%20(3).jpeg" width="250"/></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-01%20at%2016.52.33%20(1).jpeg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.15%20(1).jpeg" width="250"/></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.15.jpeg" width="250"/></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.16.jpeg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.37.jpeg" width="250"/></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.38%20(2).jpeg" width="250"/></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/chikitsa_app/blob/main/WhatsApp%20Image%202025-05-20%20at%2013.05.39.jpeg" width="250"/></td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
